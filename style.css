@@ -1,0 +1,13 @@
+body {
+    background-color: #ecedee;
+}
+
+.hlavicka {
+    padding: 200px 30px;
+    background-image: url(images/uvodka.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: 2px solid #756158;
+}
+
