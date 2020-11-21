@@ -3,11 +3,19 @@ body {
 }
 
 .hlavicka {
-    padding: 200px 30px;
-    background-image: url(images/uvodka.jpg);
+    padding: 150px 10px;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url(images/uvodka.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    border: 2px solid #756158;
+    border: 3px solid #756158;
 }
 
+h1 {
+    color: white;
+    font-size: 50px;
+    text-shadow: 2px 4px 4px black;
+    position: relative;
+    top: -180px;
+    left: 90px;
+}
