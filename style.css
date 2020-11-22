@@ -20,7 +20,14 @@ h1 {
     left: 80px;
 }
 
-.motyl {
+h2 {
+    text-align: center;
+}
+
+.motyl,
+.auta {
 position: relative;
-left: 80px;
+left: 30px;
+width: 90%;
+padding-top: 20px;
 }
