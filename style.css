@@ -33,3 +33,11 @@ left: 30px;
 width: 90%;
 padding-top: 20px;
 }
+
+
+.letak {
+    position: relative;
+    left: 50px;
+    width: 70%;
+    padding-top: 20px;
+}
